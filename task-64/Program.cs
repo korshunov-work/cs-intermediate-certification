@@ -31,7 +31,7 @@ Console.Clear();
 int startNumber = CheckInputNaturalNumbers("Введите начальное число:");
 int endNumber = CheckInputNaturalNumbers("Введите конечное число:");
 // Проверка: не является ли начальное число больше чем конечное.
-// Если проверка возварщает false - обмениваем содержимое переменных,
+// Если проверка возвращает false - обмениваем содержимое переменных,
 // для универсальнсти ввода. 
 if (startNumber > endNumber)
 {
