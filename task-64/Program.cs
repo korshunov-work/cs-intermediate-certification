@@ -32,7 +32,7 @@ int startNumber = CheckInputNaturalNumbers("Введите начальное ч
 int endNumber = CheckInputNaturalNumbers("Введите конечное число:");
 // Проверка: не является ли начальное число больше чем конечное.
 // Если проверка возвращает false - обмениваем содержимое переменных,
-// для универсальнсти ввода. 
+// для универсальности ввода. 
 if (startNumber > endNumber)
 {
     (endNumber, startNumber) = (startNumber, endNumber);
