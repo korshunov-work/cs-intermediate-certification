@@ -1,0 +1,15 @@
+C:\_DATA\Education\cs-intermediate-certification\task-68\bin\Debug\net6.0\task-68.exe
+C:\_DATA\Education\cs-intermediate-certification\task-68\bin\Debug\net6.0\task-68.deps.json
+C:\_DATA\Education\cs-intermediate-certification\task-68\bin\Debug\net6.0\task-68.runtimeconfig.json
+C:\_DATA\Education\cs-intermediate-certification\task-68\bin\Debug\net6.0\task-68.dll
+C:\_DATA\Education\cs-intermediate-certification\task-68\bin\Debug\net6.0\task-68.pdb
+C:\_DATA\Education\cs-intermediate-certification\task-68\obj\Debug\net6.0\task-68.csproj.AssemblyReference.cache
+C:\_DATA\Education\cs-intermediate-certification\task-68\obj\Debug\net6.0\task-68.GeneratedMSBuildEditorConfig.editorconfig
+C:\_DATA\Education\cs-intermediate-certification\task-68\obj\Debug\net6.0\task-68.AssemblyInfoInputs.cache
+C:\_DATA\Education\cs-intermediate-certification\task-68\obj\Debug\net6.0\task-68.AssemblyInfo.cs
+C:\_DATA\Education\cs-intermediate-certification\task-68\obj\Debug\net6.0\task-68.csproj.CoreCompileInputs.cache
+C:\_DATA\Education\cs-intermediate-certification\task-68\obj\Debug\net6.0\task-68.dll
+C:\_DATA\Education\cs-intermediate-certification\task-68\obj\Debug\net6.0\refint\task-68.dll
+C:\_DATA\Education\cs-intermediate-certification\task-68\obj\Debug\net6.0\task-68.pdb
+C:\_DATA\Education\cs-intermediate-certification\task-68\obj\Debug\net6.0\task-68.genruntimeconfig.cache
+C:\_DATA\Education\cs-intermediate-certification\task-68\obj\Debug\net6.0\ref\task-68.dll
